@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "https://jafrmartins.github.io/merry-yifi/static/js/main.5f26210d.js",
+    "service-worker.js": "https://jafrmartins.github.io/merry-yifi/service-worker.js",
+    "index.html": "https://jafrmartins.github.io/merry-yifi/index.html",
+    "main.5f26210d.js.map": "https://jafrmartins.github.io/merry-yifi/static/js/main.5f26210d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5f26210d.js"
+  ]
+}
