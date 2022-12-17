@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "https://jafrmartins.github.io/yifi/static/js/main.6e2e836d.js",
+    "main.js": "https://jafrmartins.github.io/yifi/static/js/main.de47abcf.js",
     "service-worker.js": "https://jafrmartins.github.io/yifi/service-worker.js",
     "index.html": "https://jafrmartins.github.io/yifi/index.html",
-    "main.6e2e836d.js.map": "https://jafrmartins.github.io/yifi/static/js/main.6e2e836d.js.map"
+    "main.de47abcf.js.map": "https://jafrmartins.github.io/yifi/static/js/main.de47abcf.js.map"
   },
   "entrypoints": [
-    "static/js/main.6e2e836d.js"
+    "static/js/main.de47abcf.js"
   ]
 }
